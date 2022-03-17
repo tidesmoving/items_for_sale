@@ -3,13 +3,13 @@
 
 | Item | Description | Price |
 | ---- | ----------- | ----- |
-| <img src="./img/desk.png" alt="Standing Desk" width="200"> | White [Adjustable Height Desk](https://www.amazon.com/gp/product/B0796L86ND/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) <br> dimensions: 55.12 x 23.62 x 45.28 inches | $100 |
-| <img src="./img/riser.png" alt="Tabletop Riser" width="200"> | [Height Adjustable Stand Tabletop Riser](https://www.amazon.com/gp/product/B0784HWPN6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) <br> dimensions: 22 x 36 x 17 inches | $100 |
+| <img src="./img/desk.png" alt="Standing Desk" width="200"> | ~~White [Adjustable Height Desk](https://www.amazon.com/gp/product/B0796L86ND/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) <br> dimensions: 55.12 x 23.62 x 45.28 inches~~ | **[SOLD]** |
+| <img src="./img/riser.png" alt="Tabletop Riser" width="200"> | ~~[Height Adjustable Stand Tabletop Riser](https://www.amazon.com/gp/product/B0784HWPN6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) <br> dimensions: 22 x 36 x 17 inches~~ | **[SOLD]** |
 | <img src="./img/monitor-27.png" alt="Monitor 27" width="200"> | [HP 27-inch Monitor](https://www.amazon.com/gp/product/B07CZKTN19/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | $200 |
-| <img src="./img/monitor-24.png" alt="Monitor 24" width="200"> | ~~[HP 23.8-Inch Monitor](https://www.amazon.com/gp/product/B072M34RQC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)~~ | **[SOLD]** ~~$175 for one, $300 for two~~ |
-| <img src="./img/mount.png" alt="Desk Mount Stand" width="200"> | [Monitor Desk Mount Stand](https://www.amazon.com/gp/product/B009S750LA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | $25 |
-| <img src="./img/printer.png" alt="Printer" width="200"> | [Canon TS5320 All In One Wireless Printer](https://www.amazon.com/gp/product/B07WL4JNH7/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) with used ink set inside the printer, new unused ink set, and printer paper | $100 |
-| <img src="./img/peloton.png" alt="Peloton" width="200"> | ~~[Peloton Bike](https://www.onepeloton.com/shop/bike/bike-package), 2 [dumbbells](https://www.onepeloton.com/shop/accessories/peloton-weights), [bike mat](https://www.onepeloton.com/shop/accessories/bike-mat-v2), and unused [heart rate monitor](https://www.onepeloton.com/shop/accessories/pl-hr-c-01)~~ | **[SOLD]** ~~$1000~~ |
+| <img src="./img/monitor-24.png" alt="Monitor 24" width="200"> | ~~[HP 23.8-Inch Monitor](https://www.amazon.com/gp/product/B072M34RQC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)~~ | **[SOLD]** |
+| <img src="./img/mount.png" alt="Desk Mount Stand" width="200"> | ~~[Monitor Desk Mount Stand](https://www.amazon.com/gp/product/B009S750LA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)~~ | **[SOLD]** |
+| <img src="./img/printer.png" alt="Printer" width="200"> | ~~[Canon TS5320 All In One Wireless Printer](https://www.amazon.com/gp/product/B07WL4JNH7/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) with used ink set inside the printer, new unused ink set, and printer paper~~ | **[SOLD]** |
+| <img src="./img/peloton.png" alt="Peloton" width="200"> | ~~[Peloton Bike](https://www.onepeloton.com/shop/bike/bike-package), 2 [dumbbells](https://www.onepeloton.com/shop/accessories/peloton-weights), [bike mat](https://www.onepeloton.com/shop/accessories/bike-mat-v2), and unused [heart rate monitor](https://www.onepeloton.com/shop/accessories/pl-hr-c-01)~~ | **[SOLD]** |
 
 
 
