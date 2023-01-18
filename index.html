@@ -1,20 +1,30 @@
-<div id="text"></div>
-
 <script>
-  fetch('https://api.eventive.org/event_buckets/63279b48d8f8f1009209694f/events', {
-    headers: new Headers({
-      'authority': 'api.eventive.org',
-      'origin': 'https://festival.sundance.org',
-      'referer': 'https://festival.sundance.org/'
-    })
-  })
-  .then(response => response.json())
-  .then(data => {
-    console.log(data)
-    document.getElementById("text").innerHTML = data
-  })
-  .catch(error => {
-    console.error(error)
-    document.getElementById("text").innerHTML = error
-  })
+
+fetch("https://api.eventive.org/event_buckets/63279b48d8f8f1009209694f/events?event_ids=${process.env.EVENT_IDS}", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "authorization": "Basic ${process.env.TOKEN}",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "origin": "https://festival.sundance.org",
+    "referer": "https://festival.sundance.org/",
+  },
+  "referrer": "https://festival.sundance.org/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+}).then(response => response.json()) 
+.then(json => {
+  console.log(json)
+  for(var event in json.events) {
+    let movie=json.events[event]
+    console.log(movie['name'] + " " + movie['ticket_buckets'][0]['quantity_remaining'])
+  }
+})
+.catch(err => console.log(err));
+
+
 </script>
