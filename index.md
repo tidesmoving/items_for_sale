@@ -1,3 +1,10 @@
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
+
+
 - Pick Up Only (Can help move item if resident of Tides)
 - Accept Cash or Zelle
 
