@@ -1,0 +1,20 @@
+<div id="text"></div>
+
+<script>
+  fetch('https://api.eventive.org/event_buckets/63279b48d8f8f1009209694f/events', {
+    headers: new Headers({
+      'authority': 'api.eventive.org',
+      'origin': 'https://festival.sundance.org',
+      'referer': 'https://festival.sundance.org/'
+    })
+  })
+  .then(response => response.json())
+  .then(data => {
+    console.log(data)
+    document.getElementById("text").innerHTML = data;
+  })
+  .catch(error => {
+    console.error(error)
+    document.getElementById("text").innerHTML = error;
+  })
+</script>
